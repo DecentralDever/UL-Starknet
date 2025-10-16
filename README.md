@@ -210,10 +210,9 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-- **Documentation**: [docs.unityledger.com](https://docs.unityledger.com)
-- **Discord**: [discord.gg/unityledger](https://discord.gg/unityledger)
-- **Twitter**: [@UnityLedger](https://twitter.com/unityledger)
-- **Email**: support@unityledger.com
+- **Discord**: [discord.gg/unityledger](https://discord.com/invite/zext2bwkaE)
+- **Twitter**: [@Unity_Ledger](https://x.com/Unity_Ledger)
+- **Email**: unity.ledger1@gmail.com
 
 ## Acknowledgments
 
